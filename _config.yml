@@ -1,11 +1,11 @@
 # Site settings
 author: Kwane Smith
-title: 
+title: Software Engineering at Flatiron
 header-img: img/home-bg.png
 email: smithkwane6@gmail.com
 copyright_name: Kwane Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I Chose Software Engineering at Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  smithkwane6
