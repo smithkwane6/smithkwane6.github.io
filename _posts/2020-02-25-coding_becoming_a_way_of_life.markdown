@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "CODING BECOMING A WAY OF LIFE"
+date:       2020-02-25 05:22:51 +0000
+permalink:  coding_becoming_a_way_of_life
+---
+
+
+
+	Just like a child in the early stages of life, everything is new. In my opinion, thinking about code in that way, makes it more interesting to learn.  Once you really dive into everything from the fundamental things to the more intermediate things dealing with code. You start to realize, as did I also, that we code our everyday lives. From getting dressed to what to have for dinner.  Everything broken down and translated to code. Which is why I say code can be thought of as a child in the early stages of life, everything is new.  With code its possible to a numerous amount of “if” statements which lead to “if-else” statements. Also, with code, somethings aren’t as predictable as we may want it to seem.  Maybe not in the younger years but as we all know the older, we get life is not at all, all that predictable.  People change, situations change, weather changes, life quickly shows you that you must be able to accommodate and adjust.  Which is one thing I am learning the deeper I get into code.  That sometimes I must keep in mind of the changes that may affect maybe just one line of code.  What is meant by everything is new, you never really know what’s around the next corner.  One thing you can count on is that more than likely, whatever it is, will become a lesson of some sort.  
+	In tech, in general, things change constantly.  As software engineers we must adjust to keep up with every change that may take effect.  As the same in life we either become more tolerable or we adjust so that we may move forward.  From the littlest things as the weather person may report a slight chance of rain later in the day, but late enough where you must make certain accommodation just so nothing becomes derailed in your life for that day.  Also, adding to that, let’s say you are working on an application that is reliant in some way of another application, and something happens to the main app that could possibly derail functionality of the app you are working on.  Along with all the other things we must deal with in our lives, events like that we have to keep up with, whether that be through keeping track of any favorite blogs or tech sites, so that we can make sure we have an app that can continue its functionality without to bad of a fault.  Which is why I say code can become a way of life.  It cannot be helped, but to mold its way into our daily life.  Which can quickly show its commonalities between it and other aspects in our lives.
+	
+
